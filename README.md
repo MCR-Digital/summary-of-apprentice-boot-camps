@@ -27,7 +27,7 @@ This page has a list of the boot camps in the order they are currently delivered
 
 There is an [apprentice-boot-camp-template](https://github.com/MCR-Digital/apprentice-boot-camp-template) which acts as a starting point for any new boot camp material. It includes a starting point for creating slides using Markdown (Slides As Code) which are converted to reveal.js HTML slides. We prefer this approach as it is easier for people to collaborate with pull requests, and working together without having to negotiate how to share Powerpoint files. We also get the benefits of version control which makes us feel that our content is safer.
 
-## Mentoring boot camps
+## Mentoring boot camps
 
 Since our apprentices work in a variety of languages and in a variety of organisations, it’s both necessary and really beneficial for them to have input from people in different backgrounds. Most of our boot camps involve coding exercises. The people facilitating the boot camp are rarely equipped to provide expert advice to the apprentices about each of these languages. So we try to have experts in each language available to support the apprentices while they carry out these exercises. Mentoring is a fantastic opportunity to practice skills which you might not be able to exercise back in the office.
 
