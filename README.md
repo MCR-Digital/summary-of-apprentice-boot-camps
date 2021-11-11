@@ -9,7 +9,7 @@ This page has a list of the boot camps in the order they are currently delivered
 
 | Name                                                                                                                 | Facilitators             | Lead employer | KSBs (not exhaustive)   |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------|---------------|-------------------------|
-| [Fundamentals 1](https://github.com/MCR-Digital/apprentice-boot-camp-fundamentals-1)                                 | @mrmanc & @alectunbridge | Auto Trader   |                         |
+| [Fundamentals 1](https://github.com/MCR-Digital/apprentice-boot-camp-fundamentals-1)                                 | @mrmanc & @alectunbridge | Auto Trader   | K7, K11, S1, S8, S11, S12 |
 | [Fundamentals 2](https://github.com/MCR-Digital/apprentice-boot-camp-fundamentals-2)                                 | @mrmanc & @alectunbridge | Auto Trader   |                         |
 | [Fundamentals 3](https://github.com/MCR-Digital/apprentice-boot-camp-fundamentals-3)                                 | @mrmanc & @alectunbridge | Auto Trader   |                         |
 | [UX Design Analysis](https://github.com/MCR-Digital/apprentice-boot-camp-ux-design-analysis)                         |                          | ?             | S2, S9                  |
