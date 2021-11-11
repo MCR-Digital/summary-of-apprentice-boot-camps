@@ -16,7 +16,7 @@ This page has a list of the boot camps in the order they are currently delivered
 | [System and Database Design](https://github.com/MCR-Digital/Bootcamp-8-Systems-and-Database-Design)                  |                          | Coop          | K11, S8                 |
 | [Databases](https://github.com/MCR-Digital/apprentice-boot-camp-databases)                                           |                          | Zuto          | K10, S3                 |
 | [Testing Pyramid](https://github.com/MCR-Digital/apprentice-bootcamp-testing-pyramid)                                |                          | Coop          | K12, S4, S5, S6, S13    |
-| [Delivery](https://github.com/MCR-Digital/bootcamp-delivery)                                                         |                          | ?             | S10, S14, S17           |
+| [Delivery](https://github.com/MCR-Digital/bootcamp-delivery)                                                         | @tomdaly, @ameliamyfanwy, @jameshd, @graemelindsayBBC, @sbeaumontweb | BBC           | S10, S14, S17           |
 | [Hack Day](https://github.com/MCR-Digital/apprentice-hack-day)                                                       |                          | ?             |                         |
 | [Improving Code](https://github.com/MCR-Digital/apprentice-boot-camp-improving-code) (AKA Working with Legacy Code)  | @mrmanc & @alectunbridge | Auto Trader   | S1, S11                 |
 | [Methodologies](https://github.com/MCR-Digital/apprentice-boot-camp-methodologies)                                   |                          | Waters        | K1, K2, K4, K5, K6, S12 |
