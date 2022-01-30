@@ -11,7 +11,7 @@ This page has a list of the boot camps in the order they are currently delivered
 |----------------------------------------------------------------------------------------------------------------------|--------------------------|---------------|-------------------------|
 | [Fundamentals 1](https://github.com/MCR-Digital/apprentice-boot-camp-fundamentals-1)                                 | @mrmanc & @alectunbridge | Auto Trader   | K7, K11, S1, S8, S11, S12 |
 | [Fundamentals 2](https://github.com/MCR-Digital/apprentice-boot-camp-fundamentals-2)                                 | @mrmanc & @alectunbridge | Auto Trader   | K7, S1, S4, S6, S7, S9 |
-| [Fundamentals 3](https://github.com/MCR-Digital/apprentice-boot-camp-fundamentals-3)                                 | @mrmanc & @alectunbridge | Auto Trader   |                         |
+| [Fundamentals 3](https://github.com/MCR-Digital/apprentice-boot-camp-fundamentals-3)                                 | @mrmanc & @alectunbridge | Auto Trader   | S1, S4, S10, S12, S14 |
 | [UX Design Analysis](https://github.com/MCR-Digital/apprentice-boot-camp-ux-design-analysis)                         |                          | ?             | S2, S9                  |
 | [System and Database Design](https://github.com/MCR-Digital/Bootcamp-8-Systems-and-Database-Design)                  |                          | Coop          | K11, S8                 |
 | [Databases](https://github.com/MCR-Digital/apprentice-boot-camp-databases)                                           |                          | Zuto          | K10, S3                 |
