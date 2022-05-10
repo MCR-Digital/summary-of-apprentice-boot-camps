@@ -23,6 +23,56 @@ This page has a list of the boot camps in the order they are currently delivered
 | [Portfolio Masterclass](https://github.com/MCR-Digital/apprentice-boot-camp-portfolio) (AKA Core Skills 1)           |                          | MCR Digital   |                         |
 | [End point assessment](https://github.com/MCR-Digital/apprentice-boot-camp-end-point-assessment) (AKA Core Skills 2) |                          | MCR Digital   | [K8](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k8), [S15](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s15), [B3](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-b3), [B4](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-b4), [B5](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-b5), [B7](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-b7) |
 
+### Boot camps by KSB
+
+#### Knowledge
+
+* [K1: all stages of the software development life-cycle (what each stage contains, including the inputs and outputs)](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k1)
+* [K2: roles and responsibilities within the software development lifecycle (who is responsible for what)](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k2)
+* [K3: the roles and responsibilities of the project life-cycle within your organisation, and your role](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k3)
+* [K4: how best to communicate using the different communication methods and how to adapt appropriately to different audiences](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k4)
+* [K5: the similarities and differences between different software development methodologies, such as agile and waterfall.](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k5)
+* [K6: how teams work effectively to produce software and how to contribute appropriately](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k6)
+* [K7: software design approaches and patterns, to identify reusable solutions to commonly occurring problems](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k7)
+* [K8: organisational policies and procedures relating to the tasks being undertaken, and when to follow them. For example the storage and treatment of GDPR sensitive data.](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k8)
+* [K9: algorithms, logic and data structures relevant to software development for example:- arrays- stacks- queues- linked lists- trees- graphs- hash tables- sorting algorithms- searching algorithms- critical sections and race conditions](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k9)
+* [K10: principles and uses of relational and non-relational databases](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k10)
+* [K11: software designs and functional or technical specifications](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k11)
+* [K12: software testing frameworks and methodologies](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k12)
+
+#### Skills
+
+* [S1: create logical and maintainable code](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s1)
+* [S2: develop effective user interfaces](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s2)
+* [S3: link code to data sets](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s3)
+* [S4: test code and analyse results to correct errors found using unit testing](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s4)
+* [S5: conduct a range of test types, such as Integration, System, User Acceptance, Non-Functional, Performance and Security testing.](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s5)
+* [S6: identify and create test scenarios](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s6)
+* [S7: apply structured techniques to problem solving, debug code and understand the structure of programmes in order to identify and resolve issues](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s7)
+* [S8: create simple software designs to effectively communicate understanding of the program](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s8)
+* [S9: create analysis artefacts, such as use cases and/or user stories](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s9)
+* [S10: build, manage and deploy code into the relevant environment](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s10)
+* [S11: apply an appropriate software development approach according to the relevant paradigm (for example object oriented, event driven or proural)](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s11)
+* [S12: follow software designs and functional or technical specifications](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s12)
+* [S13: follow testing frameworks and methodologies](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s13)
+* [S14: follow company, team or client approaches to continuous integration, version and source control](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s14)
+* [S15: communicate software solutions and ideas to technical and non-technical stakeholders](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s15)
+* [S16: apply algorithms, logic and data structures](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s16)
+* [S17: interpret and implement a given design whist remaining compliant with security and maintainability requirements](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s17)
+
+#### Behaviours
+
+* [B1: Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-B1)
+* [B2: Applies logical thinking. For example, uses clear and valid reasoning when making decisions related to undertaking work instructions](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-B2)
+* [B3: Maintains a productive, professional and secure working environment](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-B3)
+* [B4: Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-B4)
+* [B5: Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security.](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-B5)
+* [B6: Shows initiative and takes responsibility for solving problems within their own remit, being resourceful when faced with a problem to solve.](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-B6)
+* [B7: Communicates effectively in a variety of situations to both a technical and non-technical audience.](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-B7)
+* [B8: Shows curiosity to the business context in which the solution will be used, displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities, techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions.](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-B8)
+* [B9: Committed to continued professional development.](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-B9)
+
+
 ## Creating boot camp resources
 
 There is an [apprentice-boot-camp-template](https://github.com/MCR-Digital/apprentice-boot-camp-template) which acts as a starting point for any new boot camp material. It includes a starting point for creating slides using Markdown (Slides As Code) which are converted to reveal.js HTML slides. We prefer this approach as it is easier for people to collaborate with pull requests, and working together without having to negotiate how to share Powerpoint files. We also get the benefits of version control which makes us feel that our content is safer.
