@@ -52,7 +52,7 @@ This page has a list of the boot camps in the order they are currently delivered
 * [S8: create simple software designs to effectively communicate understanding of the program](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s8)
 * [S9: create analysis artefacts, such as use cases and/or user stories](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s9)
 * [S10: build, manage and deploy code into the relevant environment](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s10)
-* [S11: apply an appropriate software development approach according to the relevant paradigm (for example object oriented, event driven or proural)](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s11)
+* [S11: apply an appropriate software development approach according to the relevant paradigm (for example object oriented, event driven or procedural)](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s11)
 * [S12: follow software designs and functional or technical specifications](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s12)
 * [S13: follow testing frameworks and methodologies](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s13)
 * [S14: follow company, team or client approaches to continuous integration, version and source control](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-s14)
