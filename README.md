@@ -25,6 +25,123 @@ This page has a list of the boot camps in the order they are currently delivered
 
 ### Boot camps by KSB
 
+```mermaid
+%%{init: {'themeVariables': { 'fontSize': '10px'}}}%%
+graph LR
+
+subgraph Knowledge
+K1
+K2
+k3
+K4
+K5
+K6
+K7
+K8
+K9
+K10
+K11
+K12
+end
+
+subgraph Skills
+S1
+S2
+S3
+S4
+S5
+S6
+S7
+S8
+S9
+S10
+S11
+S12
+S13
+S14
+S15
+S16
+S17
+end
+
+subgraph Behaviours
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+B9
+end
+
+subgraph Boot camps
+Fundamentals_1
+Fundamentals_2
+Fundamentals_3
+Databases
+Delivery
+End_point_assessment
+Improving_Code
+Methodologies
+System_and_Database_Design
+Testing_Pyramid
+UX_Design_Analysis
+end
+
+Fundamentals_1-->K7
+Fundamentals_1-->K11
+Fundamentals_1-->S1
+Fundamentals_1-->S8
+Fundamentals_1-->S11
+Fundamentals_1-->S12
+Fundamentals_2-->K7
+Fundamentals_2-->S1
+Fundamentals_2-->S4
+Fundamentals_2-->S6
+Fundamentals_2-->S7
+Fundamentals_2-->S9
+Fundamentals_3-->S1
+Fundamentals_3-->S4
+Fundamentals_3-->S10
+Fundamentals_3-->S12
+Fundamentals_3-->S14
+UX_Design_Analysis-->S2
+UX_Design_Analysis-->S9
+System_and_Database_Design-->K11
+System_and_Database_Design-->S8
+Databases-->K10
+Databases-->S3
+Testing_Pyramid-->K12
+Testing_Pyramid-->S4
+Testing_Pyramid-->S5
+Testing_Pyramid-->S6
+Testing_Pyramid-->S13
+Delivery-->S10
+Delivery-->S14
+Delivery-->S17
+Improving_Code-->S1
+Improving_Code-->S8
+Improving_Code-->S11
+Improving_Code-->S12
+Improving_Code-->S14
+Improving_Code-->S15
+Improving_Code-->B4
+Methodologies-->K1
+Methodologies-->K2
+Methodologies-->K4
+Methodologies-->K5
+Methodologies-->K6
+Methodologies-->S12
+End_point_assessment-->K8
+End_point_assessment-->S15
+End_point_assessment-->B3
+End_point_assessment-->B4
+End_point_assessment-->B5
+End_point_assessment-->B7
+```
+
 #### Knowledge
 
 * [K1: all stages of the software development life-cycle (what each stage contains, including the inputs and outputs)](https://github.com/search?q=org%3AMCR-Digital+topic%3Aksb-k1)
